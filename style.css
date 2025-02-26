@@ -12,7 +12,7 @@ header {
 
 h1 {
     margin: 0;
-    text-shadow:edge 12 ;
+    text-shadow: 1px 1px 2px black;
 }
 h2 {
     margin: 0;
@@ -24,7 +24,7 @@ nav {
 
 nav a {
     margin: 0 15px;
-    text-decoration: edge 12;
+    text-decoration: none;
     color: hsl(209, 39%, 49%);
 }
 
